@@ -9,8 +9,8 @@ My career has largely revolved around the hospitality industry, I came across Ha
 
 <h2>Cyber Security Projects:</h2>
 
-- <b> Microsoft Windows Defender and Firewall </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Setting up Firewall rules using Microsoft Windows Defender Firewall </b>
+  - [Microsoft Defender Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 ## Certifications
