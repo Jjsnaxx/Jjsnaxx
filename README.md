@@ -20,8 +20,3 @@ My career has largely revolved around the hospitality industry, I came across Ha
 <img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-000000?style=for-the-badge&logo=tryhackme" />
 
 
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
