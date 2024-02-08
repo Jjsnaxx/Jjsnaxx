@@ -13,7 +13,7 @@ My career has largely revolved around the hospitality industry, I came across Ha
   - [Microsoft Windows Defender Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-## Certifications
+## Certifications Completed
 
 <div>
 <img src="https://img.shields.io/badge/Google%20Cyber%20Security%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -22,6 +22,6 @@ My career has largely revolved around the hospitality industry, I came across Ha
 
 
 
-Currently completing
-
+##Currently completing
+<div>
 <img src="https://img.shields.io/badge/BTL1-0000FF?style=for-the-badge" />
