@@ -24,5 +24,7 @@ My career has largely revolved around the hospitality industry, I came across Ha
 
 ## Currently completing
 <div>
-<img src="https://img.shields.io/badge/BTL1-0000FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA1klEQVR42mJQ0bUJQRT6t+1mI2IiJi8iJpYjY2NIZRo1Mz2s7OzsjKysrGJjY4DQ0NFRQUF4eXl69etqqqqgVdXV4hISGYk5OTwsLC0Hh4eFRUVlQdHx+5ubm5jY3N/4+L" />
+
+<img src="https://img.shields.io/badge/BTL1-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAAAAADKnpDVAAACcElEQVR4nKWTS2gUZRTGf3vud29vH1Ybdu0Z2alXCVTVRRlTaXUqbpLlxXVe6qCk0CqVq1QhLQQFFbrVb3byB8uM" />
+ 
 
