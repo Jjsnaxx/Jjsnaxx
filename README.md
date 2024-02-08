@@ -1,5 +1,7 @@
 # Hello, I'm Jay
-<a href="www.linkedin.com/in/jay-chen-0ab7441b1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/jay-chen-0ab7441b1
+
+"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a student with a huge interest in the CyberSecurity field, I am still extremely inexperienced but I hope to learn where ever I can!
 
