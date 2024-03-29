@@ -18,6 +18,7 @@ My career has largely revolved around the hospitality industry, I came across Ha
 <div>
 <img src="https://img.shields.io/badge/Google%20Cyber%20Security%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/TryHackMe%20SOC%20Level%201-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/BTL1-0000FF?style=for-the-badge" />
 
 
 
@@ -26,7 +27,8 @@ My career has largely revolved around the hospitality industry, I came across Ha
 ## Currently completing
 <div>
 
-<img src="https://img.shields.io/badge/BTL1-0000FF?style=for-the-badge" />
+src="https://img.shields.io/badge/BTL1-0000FF?style=for-the-badge" />"
+
 
 
  
