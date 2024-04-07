@@ -11,7 +11,10 @@ My career has largely revolved around the hospitality industry, I came across Ha
 
 - <b> Editing/Creating Firewall rules using Microsoft Windows Defender Firewall (Guided Project by Coursera) </b>
   - [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)
-
+ 
+## Working on:
+- <b> Building a simple SIEM using ELASTIC </b>
+  - [ELASTIC SIEM]()
 
 ## Certifications Completed
 
