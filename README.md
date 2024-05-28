@@ -1,7 +1,8 @@
 # Hi there! I'm Jay :muscle:
 <a href="https://www.linkedin.com/in/jay-chen-0ab7441b1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a student with a huge interest in the CyberSecurity field, I am still extremely inexperienced but I hope to learn where ever I can!
+I am a student with a huge interest in the CyberSecurity field, studying a Diploma in Information Technology - Cybersecurity. 
+I am still extremely inexperienced but I hope to learn where ever I can!
 
 ## Objective
 
@@ -15,11 +16,7 @@ My career has largely revolved around the hospitality industry, I came across Ha
 ## Working on:
 - <b> Building a simple SIEM using ELASTIC </b>
   - [ELASTIC SIEM](https://github.com/Jjsnaxx/Elastic-SIEM)
- 
-## Education
-<div>
 
-Currently studying a Diploma in Information Technology - Cybersecurity 
 
 ## Certifications Completed
 
