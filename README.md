@@ -30,7 +30,8 @@ My career has largely revolved around the hospitality industry, I came across Ha
 ## Currently completing
 <div>
 
-<img src="https://img.shields.io/badge/Security%20%2B-FF0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CYSA%2B-FF0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python%20by%20TCM%20Security-FF0000?style=for-the-badge"/>
 
 
 
