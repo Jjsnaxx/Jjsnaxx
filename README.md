@@ -46,7 +46,8 @@ My career has largely revolved around the hospitality industry, I came across Ha
 <div>
 
 <img src="https://img.shields.io/badge/CYSA%2B-FF0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-FF0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Diploma_of_Cybersecurity-FF0000?style=for-the-badge" />
+
 
 
 
