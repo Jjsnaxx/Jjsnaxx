@@ -23,8 +23,8 @@ My career has largely revolved around the hospitality industry, I came across Ha
 
  
 <h2>PicoCTF:</h2>
-- <b> PicoGym (General Skills) </b>
-  - [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)
+- <b> [PicoGym](https://github.com/Jjsnaxx/PicoCTF/blob/main/README.md) </b>
+ 
 
   <h2>Blue Team Labs:</h2>
 - <b> Investigations </b>
