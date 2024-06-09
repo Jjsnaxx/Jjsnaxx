@@ -29,9 +29,9 @@ My career has largely revolved around the hospitality industry, I came across Ha
 - <b> [PicoGym](https://github.com/Jjsnaxx/PicoCTF/blob/main/README.md) </b>
  
 
-<h2>Blue Team Labs:</h2>
-- <b> Investigations </b>
-  - [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)
+<h2>Blue Team Labs Online (Investigations):</h2>
+
+  - [Defaced](https://github.com/Jjsnaxx/Defaced/blob/main/README.md)
 
 ## Certifications Completed
 
