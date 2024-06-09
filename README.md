@@ -19,7 +19,7 @@ My career has largely revolved around the hospitality industry, I came across Ha
 
 - <b> [SSH Brute Force](https://github.com/Jjsnaxx/SSH-brute-force/tree/main)</b>
  
-- <b> [Other]() </b>
+- <b> [Other](https://github.com/Jjsnaxx/Other-python/tree/main) </b>
 
  
 <h2>PicoCTF:</h2>
