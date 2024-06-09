@@ -17,10 +17,10 @@ My career has largely revolved around the hospitality industry, I came across Ha
 
 - <b> [SHA256 Password Cracker](https://github.com/Jjsnaxx/SHA256-Pw-Cracker/blob/main/README.md)<b>
 
-- <b> SSH Brute Force </b>
-  - [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)
-- <b> Other </b>
-  - [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)
+- <b> [SSH Brute Force](https://github.com/Jjsnaxx/SSH-brute-force/tree/main)</b>
+ 
+- <b> [Other]() </b>
+
  
 <h2>PicoCTF:</h2>
 - <b> PicoGym (General Skills) </b>
