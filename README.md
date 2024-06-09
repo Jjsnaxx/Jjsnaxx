@@ -10,8 +10,8 @@ My career has largely revolved around the hospitality industry, I came across Ha
 
 <h2>Cyber Security Projects:</h2>
 
-- <b> Editing/Creating Firewall rules using Microsoft Windows Defender Firewall (Guided Project by Coursera) </b>
-  - [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)
+- <b> [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)  </b>
+  
  
 <h2>Python (TCM Security):</h2>
 
