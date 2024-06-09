@@ -4,7 +4,7 @@
 I am a student with a huge interest in the CyberSecurity field, studying a Diploma in Information Technology - Cybersecurity. 
 I am still extremely inexperienced but I hope to learn where ever I can!
 
-Here is a respository where I store all of my projects and work related to Cybersecurity. 
+Here is a respository where I store all of my projects, labs and work related to Cybersecurity. 
 
 ## Objective
 
