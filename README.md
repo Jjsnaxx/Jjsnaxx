@@ -32,6 +32,7 @@ My career has largely revolved around the hospitality industry, I came across Ha
 <h2>Blue Team Labs Online (Investigations):</h2>
 
   - [Defaced](https://github.com/Jjsnaxx/Defaced/blob/main/README.md)
+  - [PhishyV1](https://github.com/Jjsnaxx/PhishyV1/blob/main/README.md)
 
 ## Certifications Completed
 
