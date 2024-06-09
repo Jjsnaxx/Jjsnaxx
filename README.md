@@ -21,6 +21,14 @@ My career has largely revolved around the hospitality industry, I came across Ha
   - [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)
 - <b> Other </b>
   - [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)
+ 
+<h2>PicoCTF:</h2>
+- <b> PicoGym (General Skills) </b>
+  - [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)
+
+  <h2>Blue Team Labs:</h2>
+- <b> Investigations </b>
+  - [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)
 
 ## Certifications Completed
 
