@@ -4,6 +4,8 @@
 I am a student with a huge interest in the CyberSecurity field, studying a Diploma in Information Technology - Cybersecurity. 
 I am still extremely inexperienced but I hope to learn where ever I can!
 
+Here is a respository where I store all of my projects and work related to Cybersecurity. 
+
 ## Objective
 
 My career has largely revolved around the hospitality industry, I came across Hackthebox one day and it has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
