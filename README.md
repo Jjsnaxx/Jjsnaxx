@@ -16,7 +16,7 @@ My career has largely revolved around the hospitality industry, I came across Ha
 
 <h2>INE Security Labs:</h2>
 
-- <b> [ShellShock]()  </b>
+- <b> [Shell-Shock](https://github.com/Jjsnaxx/Shell-Shock)  </b>
  
 <h2>Python:</h2>
 
