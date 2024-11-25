@@ -13,9 +13,12 @@ My career has largely revolved around the hospitality industry, I came across Ha
 <h2>Cyber Security Projects:</h2>
 
 - <b> [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)  </b>
-  
+
+<h2>INE Labs:</h2>
+
+- <b> [ShellShock]()  </b>
  
-<h2>Python (TCM Security):</h2>
+<h2>Python:</h2>
 
 - <b> [SHA256 Password Cracker](https://github.com/Jjsnaxx/SHA256-Pw-Cracker/blob/main/README.md)<b>
 
