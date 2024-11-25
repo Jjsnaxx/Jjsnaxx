@@ -14,7 +14,7 @@ My career has largely revolved around the hospitality industry, I came across Ha
 
 - <b> [Microsoft Windows Defender Home Lab](https://github.com/Jjsnaxx/WindowsDefenderHomeLab)  </b>
 
-<h2>INE Labs:</h2>
+<h2>INE Security Labs:</h2>
 
 - <b> [ShellShock]()  </b>
  
