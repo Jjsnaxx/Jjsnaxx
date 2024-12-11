@@ -1,5 +1,5 @@
 # Hi there! I'm Jay :muscle:
-<a href="https://www.linkedin.com/in/jay-chen-0ab7441b1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://au.linkedin.com/in/jccyber"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a student with a huge interest in the CyberSecurity field, studying a Diploma in Information Technology - Cybersecurity with plans to continue my education with Edith Cowan University studying a Bachelors of Science (Cybersecurity).
 
